@@ -8,4 +8,4 @@ app.get('/', (req, res) => {
 app.listen(3000, () => {
   console.log('Rodando na porta 3000');
 });
-// tentando a senha no secrets
+// mudei o secrets no github para o token gerado pelo docker hub
